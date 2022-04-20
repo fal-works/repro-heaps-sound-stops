@@ -1,0 +1,3 @@
+build-hl.hxml
+
+-cmd hl out/main.hl
